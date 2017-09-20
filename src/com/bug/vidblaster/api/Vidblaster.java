@@ -5,7 +5,6 @@
  */
 package com.bug.vidblaster.api;
 
-
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStream;
